@@ -1,18 +1,18 @@
 {
-  "name": "botkit-convos",
-  "description": "Botkit conversation examples for Cisco Spark",
+  "name": "botkit-survey",
+  "description": " simple survey bot built on Botkit for Cisco Spark",
   "version": "1.0.0",
   "main": "bot.js",
   "keywords": [
     "ciscospark",
     "botkit",
-    "devnet"
+    "survey"
   ],
-  "author": "Stève Sfartz (Cisco DevNet) <stsfartz@cisco.com>",
+  "author": "Diego Fernando Nieto <d.nieto@calltechsa.com>",
   "license": "MIT",
   "dependencies": {
     "botkit": "^0.5.7",
     "node-env-file": "^0.1.8",
-    "fs": "0.0.1"
+    "fs": "0.0.1-security"
   }
 }
