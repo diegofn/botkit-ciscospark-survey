@@ -1,0 +1,2 @@
+a;b;c;d;e;f;g;1;2;s;
+a@gmail.com,todo,si,several things,diego nieto,50000usd,super,5,4,XXXXXXXXXXX
